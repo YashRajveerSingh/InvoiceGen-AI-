@@ -14,7 +14,7 @@ The backend remains the source of truth for product prices, stock quantities, in
 
 ## 🚀 Live Demo
 
-**Live Application:** https://stock-pilot-delta-gules.vercel.app/admin-dashboard
+**Live Application:** (https://stock-pilot-delta-gules.vercel.app/login)
 
 **GitHub Repository:**[ https://github.com/YashRajveerSingh/StockPilot](https://github.com/YashRajveerSingh/InvoiceGen-AI-)
 
