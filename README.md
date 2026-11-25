@@ -575,6 +575,9 @@ This project is developed for educational and portfolio purposes.
 
 You are welcome to explore, learn from, and enhance the project.
 
+Username : admin@gmail.com
+Password : admin
+
 ---
 
 **InvoiceGen AI — Smarter Billing. Better Inventory. Data-Driven Decisions.**
